@@ -1,0 +1,1 @@
+<script src="{{ asset('./assets/js/fslightbox.js')}} " defer></script>
